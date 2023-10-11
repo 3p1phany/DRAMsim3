@@ -1,0 +1,3 @@
+set args  configs/DDR4_8Gb_x8_3200.ini --stream random -c 100000
+b main.cc:65
+r
